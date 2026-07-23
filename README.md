@@ -69,7 +69,7 @@ from data points on the main report pages.
 ![Errors](assets/screenshots/04_errors.png)
 
 ### Picker
-![Picker](assets/screenshots/05_pickers.png)
+![Picker](assets/screenshots/05_picker.png)
 
 ### Table
 ![Table](assets/screenshots/06_table.png)
