@@ -54,6 +54,14 @@ from data points on the main report pages.
 | Performance Profile | Individual picker performance analysis |
 | Decomposition Tree | Error Root-Cause Analysis |
 
+## Dashboard Preview
+
+### Home
+![Home Page](assets/screenshots/01_home.png)
+
+### Overview
+![Overview](assets/screenshots/02_overview.png)
+
 ## Key Findings
 
 The following findings reflect the synthetic dataset.
@@ -106,7 +114,7 @@ The project is intended for portfolio and educational purposes only.
 
 **Nuhuman Abubakar**  
 Data Analyst & BI Developer  
-[http://www.linkedin.com/in/nuhuman-abubakar]
+[LinkedIn](http://www.linkedin.com/in/nuhuman-abubakar)
 
 
 
