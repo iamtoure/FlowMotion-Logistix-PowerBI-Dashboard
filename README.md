@@ -63,13 +63,27 @@ from data points on the main report pages.
 ![Overview](assets/screenshots/02_overview.png)
 
 ### Process
-![Overview](assets/screenshots/03_process.png)
+![Process](assets/screenshots/03_process.png)
 
 ### Errors
-![Overview](assets/screenshots/04_errors.png)
+![Errors](assets/screenshots/04_errors.png)
 
-### Pickers
-![Overview](assets/screenshots/05_pickers.png)
+### Picker
+![Picker](assets/screenshots/05_pickers.png)
+
+### Table
+![Table](assets/screenshots/06_table.png)
+
+### About
+![About](assets/screenshots/07_about.png)
+
+## Drillthrough Pages
+
+### Order Details
+![Order Details](assets/screenshots/08_order.png)
+
+### Picker Performance Profile
+![Picker Performance Profile](assets/screenshots/09_pickerprof.png)
 
 ## Key Findings
 
