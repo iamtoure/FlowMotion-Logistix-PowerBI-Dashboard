@@ -62,6 +62,12 @@ from data points on the main report pages.
 ### Overview
 ![Overview](assets/screenshots/02_overview.png)
 
+### Process
+![Overview](assets/screenshots/03_process.png)
+
+### Errors
+![Overview](assets/screenshots/03_errors.png)
+
 ## Key Findings
 
 The following findings reflect the synthetic dataset.
