@@ -66,7 +66,10 @@ from data points on the main report pages.
 ![Overview](assets/screenshots/03_process.png)
 
 ### Errors
-![Overview](assets/screenshots/03_errors.png)
+![Overview](assets/screenshots/04_errors.png)
+
+### Pickers
+![Overview](assets/screenshots/05_pickers.png)
 
 ## Key Findings
 
