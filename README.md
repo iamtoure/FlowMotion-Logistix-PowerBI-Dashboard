@@ -31,6 +31,8 @@ The semantic model is built from multiple related tables:
 Relationships follow a star schema pattern with Orders as the 
 central fact table.
 
+![Semantic Model](assets/screenshots/semantic_model.png)
+
 ## Report Pages
 
 | Page | Purpose |
@@ -42,17 +44,6 @@ central fact table.
 | Picker Analysis | Overall and comparative picker performance analysis |
 | Table | Searchable order-level detail table |
 | About | Project documentation and version history |
-
-The report contains drillthrough pages accessible 
-from data points on the main report pages.
-
-## Drillthrough Pages
-
-| Page | Purpose |
-|------|---------|
-| Order Analysis | Details about individual orders |
-| Performance Profile | Individual picker performance analysis |
-| Decomposition Tree | Error Root-Cause Analysis |
 
 ## Dashboard Preview
 
@@ -78,6 +69,16 @@ from data points on the main report pages.
 ![About](assets/screenshots/07_about.png)
 
 ## Drillthrough Pages
+The report contains drillthrough pages accessible 
+from data points on the main report pages.
+
+| Page | Purpose |
+|------|---------|
+| Order Analysis | Details about individual orders |
+| Performance Profile | Individual picker performance analysis |
+| Decomposition Tree | Error Root-Cause Analysis |
+
+## Drillthrough Pages
 
 ### Order Details
 ![Order Details](assets/screenshots/08_order.png)
@@ -91,7 +92,7 @@ The following findings reflect the synthetic dataset.
 
 **Overview**  
 A 2% error rate across 5,577 orders appears manageable until 
-applied to 1.3M items picked — producing 25,200 error instances. 
+applied to 1.3M items picked, producing 25,200 error instances. 
 This reframes error rate as a material operational issue and 
 motivates the deeper analysis in subsequent pages.
 
@@ -124,8 +125,8 @@ respectively), which shows speed/qty does not explain error patterns.
 ## Key Features
 
 - App-style navigation with persistent top nav bar and Home page cards
-- Multi-table semantic model with star schema design
 - Drillthrough pages for order-level and picker-level detail
+- Tooltips 
 
 ## Data Notice
 
