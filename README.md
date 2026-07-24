@@ -86,6 +86,9 @@ from data points on the main report pages.
 ### Picker Performance Profile
 ![Picker Performance Profile](assets/screenshots/09_pickerprof.png)
 
+### Decomposition Tree
+![Decomposition Tree](assets/screenshots/10_decomptree.png)
+
 ## Key Findings
 
 The following findings reflect the synthetic dataset.
