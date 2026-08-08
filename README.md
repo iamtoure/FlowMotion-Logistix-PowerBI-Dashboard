@@ -3,6 +3,8 @@
 A comprehensive Power BI analytics solution simulating warehouse 
 logistics operations for a third-party logistics (3PL) environment.
 
+Find the [interactive report](https://app.powerbi.com/view?r=eyJrIjoiOGQwMTQ2MDQtY2E4Yi00N2RiLWIxNTAtYmZlMTg4MDZiOTg4IiwidCI6ImZiZWU2ZjQxLTA1YzktNGE4Zi05YjhjLTRlOWI2Mzk0MjY3YSJ9&embedImagePlaceholder=true&pageName=c6b4cb2818d5d802542b) published on Power BI Service
+
 ## Project Overview
 
 FlowMotion Logistix is a 7-page interactive Power BI report built 
