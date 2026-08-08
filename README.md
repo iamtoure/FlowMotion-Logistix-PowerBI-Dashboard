@@ -142,7 +142,7 @@ The project is intended for portfolio and educational purposes only.
 ## Author
 
 **Nuhuman Abubakar**  
-Data Analyst & BI Developer  
+BI/BA 
 [LinkedIn](http://www.linkedin.com/in/nuhuman-abubakar)
 
 
