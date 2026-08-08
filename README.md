@@ -142,8 +142,10 @@ The project is intended for portfolio and educational purposes only.
 ## Author
 
 **Nuhuman Abubakar**  
-BI/BA 
+Business Inteligence Analyst & Business Analyst  
 [LinkedIn](http://www.linkedin.com/in/nuhuman-abubakar)
+
+
 
 
 
